@@ -84,5 +84,5 @@ You can also [try this example on Wokwi](https://wokwi.com/projects/294980637632
 ## Simulator examples
 
 - [Basic Keypad example](https://wokwi.com/projects/294980637632233994)
-- [Arduino Calculator](https://wokwi.com/projects/276825819240727048)
+- [Arduino Project](https://wokwi.com/projects/276825819240727048)
 - [Electronic Safe](https://wokwi.com/projects/344891391763022419)
